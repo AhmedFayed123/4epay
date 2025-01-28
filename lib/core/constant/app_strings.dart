@@ -1,0 +1,45 @@
+class AppStrings {
+  static const String appName = '4epay';
+  static const String poppins = 'Poppins';
+  static const String login = 'Log in';
+  static const String signup = 'Sign up';
+  static const String firstName = 'First Name';
+  static const String lastName = 'Last Name';
+  static const String enterName = 'Enter Name';
+  static const String enterPhoneNumber = 'Enter Phone Number';
+  static const String phoneNumber = 'Phone Number';
+  static const String nationalID = 'National ID';
+  static const String enterNationalID = 'Enter National ID';
+  static const String gender = 'Gender';
+  static const String martialState = 'Martial State';
+  static const String password = 'Password';
+  static const String enterPassword = 'Enter Martial State';
+  static const String rePassword = 'Re - Password';
+  static const String nationality = 'Nationality';
+  static const String enterVerificationCode = 'Enter verification code';
+  static const String weSentYouVerificationCode = 'We sent you a verification code via SMS.';
+  static const String didNotReceiveIt = 'Didn’t receive it?';
+  static const String resendAgain = 'Resend again';
+  static const String successfuly = 'Successfuly!';
+  static const String nowYouCanLoginToYourAccount = 'Now you can Login to your account';
+  static const String proofOfResidency = 'Proof Of Residency!';
+  static const String proofOfResidencyDesc = 'Lorem ipsum dolor sit amet consectetur. Diam imperdiet interdum leo bibendum risus adipiscing vitae condimentum nunc.!';
+  static const String nationalIdentityCard = 'National identity card';
+  static const String passport = 'Passport';
+  static const String continue_ = 'Continue';
+  static const String letsVerifyYourID = 'Let’s verify your ID';
+  static const String backToHome = 'Back To Home';
+  static const String hasBeenConfirmed = 'Your identity has been confirmed.';
+  static const String currentBalance = 'Current Balance';
+  static const String points = 'points';
+  static const String scanPay = 'Scan & pay';
+  static const String sendToBank = 'Send To Bank';
+  static const String sendToContact = 'Send to Contact';
+  static const String paymentRequest = 'Payment request';
+  static const String seeAll = 'See All';
+  static const String sendMoney = 'Send Money';
+  static const String ahmed = 'ahmed';
+  static const String new_ = 'New';
+  static const String nearestTraders = 'Nearest Traders';
+
+}
